@@ -1,0 +1,15 @@
+@0
+D=M
+@i
+M=D
+@1
+D=M
+@0
+M=D
+@i
+D=M
+@1
+M=D
+(END)
+@END
+0;JMP
