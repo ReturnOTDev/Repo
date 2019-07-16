@@ -1,3 +1,8 @@
+# This is a file that takes in the dimensions of any given crate and determines the maximum number of boxes that can fit inside it (given box dimensions)
+
+
+
+
 # creating fit1 as a baseline for other fit functions (setting Z as 1 by default for 2D structures)
 def fit1(X, Y, x, y):
     return (X // x) * (Y // y)
